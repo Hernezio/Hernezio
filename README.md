@@ -1,8 +1,8 @@
 - 👋 Hi, I'm @Hernezio
 - 👀 I'm interested in programming
-- 🌱 I am currently learning Java
+- 🌱 I am currently in continuous learning of tools for full-stack development.
 - 💞️ I am looking to collaborate on Frontend
-- 📫 How to contact me sokolofiohernezio@gmail.com
+- 📫 How to contact me sancheztabares@live.com
 
 <!---
 Hernezio/Hernezio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
